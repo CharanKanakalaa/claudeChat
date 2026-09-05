@@ -77,7 +77,7 @@ back to the UI.
 cd claude-java-starter
 git init
 git add .
-git commit -m "Java + Claude API starter project"
+git commit -m "claudeChat"
 git branch -M main
 git remote add origin https://github.com/<your-username>/<repo-name>.git
 git push -u origin main
